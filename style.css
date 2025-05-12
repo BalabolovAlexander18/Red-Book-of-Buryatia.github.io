@@ -5,10 +5,6 @@ body {
     background-size: cover;
     background-attachment: fixed;
     background-color: white; /* Убедитесь, что цвет фона установлен */
-    
-    transform: scale(1.5); /* Увеличивает масштаб всей страницы в 1.5 раза */
-    transform-origin: top left; /* Устанавливает точку начала трансформации */
-    width: 66.67%; /* Корректирует ширину, чтобы избежать горизонтальной прокрутки */
 }
 
 .btn {
