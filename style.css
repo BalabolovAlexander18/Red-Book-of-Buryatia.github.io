@@ -1,0 +1,20 @@
+body {
+    margin: 0;
+    background: url(src/1667558932_1-sportishka-com-p-samoe-glubokoe-ozero-baikal-krasivo-1.jpg);
+    background-position: top center;
+    background-size: cover;
+    background-attachment: fixed;
+}
+body {
+    background-color: white;
+}
+.btn{
+	padding: 5px;
+	padding-top: 5px;
+	padding-right: 5px;
+	padding-bottom: 5px;
+	padding-left: 5px;
+}
+td {
+    width: auto;
+}
