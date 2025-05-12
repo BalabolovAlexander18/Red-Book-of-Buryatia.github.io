@@ -4,13 +4,17 @@ body {
     background-position: top center;
     background-size: cover;
     background-attachment: fixed;
-    background-color: white; /* Убедитесь, что цвет фона установлен */
 }
-
-.btn {
-    padding: 5px;
+body {
+    background-color: white;
 }
-
+.btn{
+	padding: 5px;
+	padding-top: 5px;
+	padding-right: 5px;
+	padding-bottom: 5px;
+	padding-left: 5px;
+}
 td {
     width: auto;
 }
