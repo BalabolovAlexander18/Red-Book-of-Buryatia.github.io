@@ -4,17 +4,27 @@ body {
     background-position: top center;
     background-size: cover;
     background-attachment: fixed;
+    background-color: white; /* Убедитесь, что цвет фона установлен */
 }
-body {
-    background-color: white;
+
+.btn {
+    padding: 5px;
 }
-.btn{
-	padding: 5px;
-	padding-top: 5px;
-	padding-right: 5px;
-	padding-bottom: 5px;
-	padding-left: 5px;
-}
+
 td {
     width: auto;
+}
+
+/* Стили для увеличения кнопок */
+button[name="nubex"] {
+    padding: 10px 20px; /* Увеличивает внутренние отступы */
+    font-size: 16px;    /* Увеличивает размер шрифта */
+    width: 150px;       /* Устанавливает фиксированную ширину */
+    height: 50px;       /* Устанавливает фиксированную высоту */
+}
+
+/* Дополнительно: стиль для изображений внутри кнопок */
+button[name="nubex"] img {
+    width: 30px;        /* Увеличивает размер изображения */
+    height: 30px;       /* Увеличивает размер изображения */
 }
