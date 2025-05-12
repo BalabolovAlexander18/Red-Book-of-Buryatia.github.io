@@ -1,0 +1,19 @@
+body {
+    margin: 0;
+    background: url(src/1676548452_catherineasquithgallery-com-p-kartinka-fon-zelenii-lug-158.jpg);
+    background-position: top center ;
+    background-size: cover;
+    background-attachment: fixed;
+    .head {
+        color: black;
+    }
+    
+    .naz {
+        color: orangered;
+        background: #15f251;
+        margin: 50px 185px;
+    }
+    .knop {
+    margin: 30px ;
+    position: fixed;
+    }

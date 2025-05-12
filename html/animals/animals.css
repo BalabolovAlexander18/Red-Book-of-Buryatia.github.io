@@ -1,0 +1,18 @@
+body {
+    margin: 0;
+    background: url(src/grass-horizon-cloud-sky-field-meadow-prairie-wind-cumulus-agriculture-plain-grassland-ecosystem-steppe-rural-area-meteorological-phenomenon-grass-family-atmosphere-of-earth-50464.jpg);
+    background-position: top center ;
+    background-size: cover;
+    background-attachment: fixed;
+}
+.head {
+    background: #f7f8f8;
+    margin: 50px 30px;
+    }
+.knop {
+    margin: 30px ;
+    position: fixed;
+    }
+a {
+    text-decoration: underline;
+    }
